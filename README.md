@@ -1,167 +1,291 @@
  <div align="center">
 
-  <img src="assets/logomain.png" alt="Project ASTRA Logo" width="180" />
+  <img src="assets/project-astra-logo.png" alt="Project ASTRA" width="190" />
 
   # PROJECT ASTRA
 
-  **Beyond Earth. Into the Unknown.**
+  ### Beyond Earth. Into the Unknown.
 
   *Exploring ideas. Engineering possibilities. Shaping the future of space exploration.*
 
   <br />
 
-  ![Mission](https://img.shields.io/badge/MISSION-MARTIAN%20MAP-c14432?style=for-the-badge)
-  ![NASA Space Apps](https://img.shields.io/badge/NASA-SPACE%20APPS%202026-0B3D91?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/STATUS-ACTIVE-2ea44f?style=for-the-badge)
+  ![NASA Space Apps](https://img.shields.io/badge/NASA_SPACE_APPS-2026-0B3D91?style=for-the-badge)
+  ![Mission](https://img.shields.io/badge/CURRENT_MISSION-MARTIAN_MAP-C14432?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/STATUS-ACTIVE-2EA44F?style=for-the-badge)
 
-  **[Our Mission](#-our-current-mission) · [About Us](#-who-we-are) · [Our Vision](#-our-vision) · [Our Approach](#-our-approach)**
+  <br />
+
+  **[About Us](#about-us) · [Our Mission](#our-current-mission) · [Mars Exploration](#the-future-of-human-exploration-on-mars) · [Our Vision](#our-vision) · [Contact](#contact)**
 
 </div>
 
 ---
 
+<a id="about-us"></a>
+
+## 🌌 About Us
+
+**Project ASTRA is an emerging research and technology initiative driven by curiosity, scientific exploration, and engineering innovation.**
+
+We are a team of individuals brought together by a shared interest in technology, space science, and the possibilities that lie beyond our planet.
+
+Our interests span software engineering, scientific research, artificial intelligence, data visualization, and emerging technologies.
+
+We believe that some of humanity's greatest achievements begin with asking questions that seem impossible to answer.
+
+ASTRA aims to provide a collaborative environment where ideas can evolve into research, research can inspire engineering, and engineering can lead to meaningful solutions.
+
+We are starting small, learning continuously, and building with a much bigger horizon in mind.
+
+---
+
+<a id="our-current-mission"></a>
+
 ##  Our Current Mission
 
-### Interplanetary Survival Guide: Martian Map
+<div align="center">
 
-**Our mission is to rethink how humans navigate, understand, and prepare for exploration beyond Earth.**
+  <img src="assets/mars.jpg" alt="The Red Planet - Mars" width="100%" />
 
-As part of the **NASA Space Apps Challenge 2026**, Project ASTRA is working on the challenge *Interplanetary Survival Guide: Martian Map*.
+  ### MISSION 001
 
-Our initial mission focuses on **Jezero Crater, Mars**, an extraordinary region with significant scientific importance and a history of exploration by NASA's Perseverance rover.
+  # Interplanetary Survival Guide: Martian Map
 
-We aim to transform scientific and geographical information about the Martian surface into an interactive, informative, and exploration-oriented survival guide.
+  **Destination: Jezero Crater, Mars**
 
-Rather than simply presenting a map, we envision a platform that helps users understand the Martian environment, explore its terrain, identify relevant geographical features, and investigate the challenges associated with future human exploration.
+  <sub>NASA Space Apps Challenge 2026</sub>
 
-We believe that preparing for another world begins with understanding it.
+</div>
+
+### The Mission
+
+Humanity has spent decades studying Mars through orbiters, landers, and robotic explorers. Yet, understanding how humans might navigate, survive, and explore an entirely different planetary environment remains one of the greatest challenges of future space exploration.
+
+As part of the NASA Space Apps Challenge 2026, our first mission is to develop an **Interplanetary Survival Guide: Martian Map**.
+
+Our focus is Jezero Crater, a scientifically significant region on Mars and the exploration site of NASA's Perseverance rover.
+
+We aim to transform publicly available Martian geographical and scientific information into an interactive exploration platform that helps people understand the planet beyond a conventional map.
+
+### What We Want to Explore
+
+- **Martian Geography:** Explore the surface, geological structures, craters, and significant terrain features of Jezero Crater.
+- **Terrain Visualization:** Investigate interactive 2D and 3D representations of the Martian landscape.
+- **Scientific Data Integration:** Utilize publicly available NASA datasets, imagery, and planetary information.
+- **Environmental Awareness:** Explore Martian environmental conditions and their implications for future exploration.
+- **Exploration Planning:** Investigate terrain awareness, geographical context, and route-related information.
+- **Survival Considerations:** Understand the environmental and logistical challenges that future human explorers may encounter.
+
+Our objective is not simply to recreate the geography of Mars, but to investigate how scientific information can become an understandable and useful exploration guide.
+
+**We believe that before humanity can explore another world, it must first learn how to understand it.**
 
 ---
 
-## Who We Are??
+<a id="the-future-of-human-exploration-on-mars"></a>
 
-**Project ASTRA is a team driven by curiosity, research, technology, and a shared ambition to explore possibilities beyond our planet.**
+## 🚀 The Future of Human Exploration on Mars
 
-We bring together individuals with different interests, perspectives, and technical abilities to investigate challenging problems and develop meaningful solutions.
+Mars is no longer just a distant object of scientific curiosity. It is an important destination in the long-term plans of space agencies and commercial space companies.
 
-Our interests extend across space science, software engineering, data visualization, artificial intelligence, and emerging technologies.
+Organizations such as NASA and SpaceX are exploring different approaches to making human exploration of Mars possible.
 
-We believe innovation happens when scientific curiosity meets practical engineering.
+We follow these developments because understanding the future of planetary exploration helps us understand the problems our technology may eventually need to address.
 
-ASTRA is more than a single project or competition. It is an evolving initiative through which we want to learn, experiment, collaborate, and contribute to the broader technological community.
+### 1. NASA — Moon to Mars
+
+NASA's Moon to Mars Architecture outlines a long-term roadmap for expanding human exploration beyond Earth.
+
+Rather than immediately attempting a human mission to Mars, NASA follows a progressive approach: developing and demonstrating technologies through lunar exploration before undertaking increasingly complex missions to the Red Planet.
+
+Some major areas of development include:
+
+- **Artemis Program:** Returning astronauts to the Moon and establishing experience for longer-duration exploration.
+- **Deep Space Transportation:** Developing the systems needed to transport astronauts across vast interplanetary distances.
+- **Mars Habitats:** Investigating safe living environments that can protect astronauts from the Martian environment.
+- **Power Generation:** Developing reliable energy systems, including nuclear fission power, for surface operations.
+- **Communication Systems:** Exploring advanced communication technologies, including laser communications.
+- **Resource Utilization:** Investigating ways to use resources available beyond Earth.
+- **Human Health:** Understanding the effects of radiation, reduced gravity, and long-duration spaceflight.
+
+NASA's long-term objective is to establish the capabilities required for humans to travel to Mars, conduct scientific exploration, and safely return to Earth.
+
+Official resource: https://www.nasa.gov/MoonToMarsArchitecture/
+
+### 2. SpaceX — Starship and Making Humanity Multiplanetary
+
+SpaceX has a different but equally ambitious vision: making humanity a multiplanetary civilization.
+
+Its Starship and Super Heavy transportation system is being developed as a fully reusable launch and transportation system designed for missions to Earth orbit, the Moon, Mars, and beyond.
+
+SpaceX's published Mars ambitions include:
+
+- **Reusable Transportation:** Developing a transportation system capable of carrying substantial cargo and eventually crew to Mars.
+- **Interplanetary Refueling:** Using orbital refueling to support long-distance transportation missions.
+- **Cargo Missions:** Delivering equipment, supplies, and infrastructure for future Martian exploration.
+- **Surface Infrastructure:** Establishing power generation, landing facilities, habitats, and other essential systems.
+- **Resource Utilization:** Investigating the use of Martian resources, including the potential production of methane and oxygen.
+- **Long-Term Settlement:** Working toward its vision of establishing a self-sustaining human settlement on Mars.
+
+SpaceX currently describes its Mars cargo mission ambitions as starting no earlier than 2028. These are company-stated plans, not confirmed operational missions.
+
+Official resource: https://www.spacex.com/mars/
+
+### 3. Why This Matters to ASTRA
+
+These ambitions introduce an important question:
+
+**How do we prepare to explore an environment that is fundamentally different from Earth?**
+
+Future explorers will need more than transportation systems and spacecraft. They will also need scientific information, geographical understanding, environmental awareness, reliable communication, and tools that help them make informed decisions.
+
+This is where we believe planetary mapping and interactive scientific visualization can contribute.
+
+Our current Martian Map mission is one small step toward exploring these possibilities.
 
 ---
 
-## Our Vision
+<a id="our-vision"></a>
 
-We envision a future where exploring other worlds becomes increasingly understandable, accessible, and achievable through technology.
+## 🌠 Our Vision
 
-Our long-term interests include:
+We envision a future where technology makes the exploration and understanding of other worlds increasingly accessible.
 
-- **Space Exploration:** Understanding planetary environments and the challenges of interplanetary missions.
-- **Research & Innovation:** Exploring scientific questions and turning research into practical applications.
-- **Software Engineering:** Building useful, interactive, and scalable technological solutions.
-- **Artificial Intelligence:** Investigating how intelligent systems can support scientific exploration and decision-making.
-- **Open Collaboration:** Sharing knowledge, research, and ideas with the wider community.
+Our long-term vision extends beyond a single hackathon or planetary mapping project.
 
-Our current focus is Mars, but our curiosity does not end there.
+We want to explore opportunities across:
+
+| Research Area | Our Interest |
+|---|---|
+| Space Science | Planetary exploration and scientific discovery |
+| Artificial Intelligence | Intelligent systems and research applications |
+| Software Engineering | Building meaningful and scalable technologies |
+| Scientific Visualization | Making complex scientific information understandable |
+| Planetary Technologies | Tools for understanding extraterrestrial environments |
+| Open Research | Sharing knowledge and contributing to the wider community |
+
+Mars is our starting point, but our curiosity extends across the universe.
 
 ---
 
 ## 🛰️ Our Approach
 
-We believe meaningful solutions require more than writing code.
+We believe that meaningful innovation requires more than writing code.
 
-Our approach combines:
+Our approach combines scientific understanding with practical engineering.
 
-1. **Research:** Understanding the scientific background, available datasets, and actual problem.
-2. **Exploration:** Investigating possible approaches and identifying opportunities for innovation.
-3. **Engineering:** Translating research findings into practical software solutions.
-4. **Visualization:** Making complex information understandable through intuitive interfaces and interactive experiences.
-5. **Collaboration:** Working together, documenting findings, and continuously improving our ideas.
+**01 — Research**
+
+Understand the problem, investigate existing scientific knowledge, and identify reliable datasets and resources.
+
+**02 — Exploration**
+
+Examine different approaches, experiment with ideas, and identify opportunities for innovation.
+
+**03 — Engineering**
+
+Transform research findings into practical technological solutions.
+
+**04 — Visualization**
+
+Make complex information accessible through intuitive interfaces, interactive maps, and visual experiences.
+
+**05 — Collaboration**
+
+Share knowledge, document discoveries, and improve our work through continuous collaboration.
 
 ---
 
-## 🔭 What We're Exploring
+## 🔬 Research & Technology Interests
 
-Our current research and development interests include:
+Our technical interests include:
 
-| Area | Focus |
+- Web Development and Interactive Applications
+- Geospatial Technologies and Planetary Mapping
+- 2D and 3D Scientific Visualization
+- Artificial Intelligence and Machine Learning
+- Scientific Data Processing and Analysis
+- NASA Open Data, APIs, and Research Resources
+- Human-Computer Interaction
+
+Our technology stack and research methods will evolve according to the needs of each mission.
+
+---
+
+## 📡 Open Research & Collaboration
+
+We believe that scientific progress benefits from collaboration and the open exchange of knowledge.
+
+This GitHub organization/repository serves as a shared space for documenting our research, ideas, experiments, technical developments, and project progress.
+
+We aim to:
+
+- Document research and discoveries.
+- Share useful scientific resources.
+- Maintain transparent development practices.
+- Collaborate with developers and researchers.
+- Contribute to open-source projects and communities.
+- Learn from existing scientific and engineering work.
+
+We welcome curiosity, constructive discussions, and opportunities to collaborate.
+
+---
+
+## 🗺️ Our Journey
+
+| Milestone | Status |
 |---|---|
-| Planetary Mapping | Understanding Martian geography and surface features |
-| Terrain Visualization | Exploring 2D and 3D representations of planetary terrain |
-| Scientific Data | Working with NASA's open scientific datasets |
-| Environmental Analysis | Investigating relevant Martian environmental conditions |
-| Exploration Planning | Exploring terrain awareness and route-related information |
-| Interactive Systems | Developing accessible, research-driven web experiences |
-
-These are areas of exploration and development, not claims of completed functionality.
-
----
-
-## 🧪 Our First Mission: Mars
-
-<details>
-<summary><b>Why Jezero Crater?</b></summary>
-
-Jezero Crater is a fascinating location on Mars, particularly because of its ancient geological history and its importance to the search for evidence of past microbial life.
-
-It is also the landing and exploration region of NASA's Perseverance rover.
-
-For ASTRA, Jezero provides a meaningful starting point for investigating planetary terrain, scientific datasets, and the possibilities of future exploration.
-
-</details>
-
-Our work will draw upon publicly available scientific information and NASA resources to investigate how planetary data can be transformed into useful exploration tools.
+| Project ASTRA Formation | In Progress |
+| NASA Space Apps Challenge 2026 | Participating |
+| Challenge Selection | Completed |
+| Initial Research | In Progress |
+| Mission Concept Development | In Progress |
+| Technical Development | Upcoming |
+| Testing & Refinement | Upcoming |
+| Project Presentation | Upcoming |
 
 ---
 
-## 🤝 Collaboration & Open Research
+##  Beyond Our First Mission
 
-We believe knowledge should be shared.
+**Mission 001 is only the beginning.**
 
-This repository serves as a collaborative space for our team's research, documentation, ideas, experiments, and development progress.
+We want ASTRA to grow into an environment where research, technology, and curiosity come together to address interesting problems.
 
-We aim to maintain transparency throughout our journey by documenting what we discover, what we build, and what we learn.
+As our team evolves, we hope to investigate new scientific questions, develop meaningful applications, and contribute to technological communities.
 
-Our research and development process is an opportunity to learn from one another and contribute to the broader open-source and space-technology community.
+The universe is vast, and there is still so much to understand.
 
----
-
-## 🛠️ Technology & Resources
-
-Our technology choices will evolve according to the requirements of each mission.
-
-Our areas of technical interest include:
-
-- Web Development & Interactive Interfaces
-- Scientific Data Visualization
-- Geospatial Technologies
-- 3D Visualization
-- NASA Open Data & APIs
-- Artificial Intelligence and Data Analysis
+We are here to explore those possibilities, one mission at a time.
 
 ---
 
+<a id="contact"></a>
 
+## 📬 Contact & Connect
 
-## 🌍 Beyond This Mission
+Have an idea, research opportunity, or collaboration in mind?
 
-Mars is where our journey begins, not necessarily where it ends.
+We would be glad to connect.
 
-We hope Project ASTRA will continue to evolve through research, experimentation, collaboration, and the development of meaningful technological solutions.
+**Project ASTRA — Team Lead**
 
-Every mission starts with a question. Ours begins with a simple one:
+**Prince Timilsina**
 
-**What will it take to make humanity a multiplanetary civilization?**
+- Instagram: [@prince.env](https://www.instagram.com/prince.env)
+- Email: [timilsinaprince.js@gmail.com](mailto:timilsinaprince.js@gmail.com)
+- GitHub: [@PrinceTimilsina](https://github.com/PrinceTimilsina)
+
+For team-related discussions, research coordination, collaboration, and general inquiries, feel free to reach out through the channels above.
 
 ---
 
 <div align="center">
 
-  ### PROJECT ASTRA
+  # PROJECT ASTRA
 
-  **Beyond Earth. Into the Unknown.**
+  ### Beyond Earth. Into the Unknown.
 
   *One mission. Countless possibilities.*
 
@@ -169,6 +293,16 @@ Every mission starts with a question. Ours begins with a simple one:
 
   **Built with curiosity, collaboration, and a passion for exploration.**
 
+  <br />
+
   <sub>Participating in NASA Space Apps Challenge 2026 · Bhaktapur, Nepal</sub>
-   <sub>Copyright</sub>
+
+  <br /><br />
+
+  <sub>© 2026 Project ASTRA. All rights reserved for original branding, logo, and original content, subject to the applicable repository license and third-party rights.</sub>
+
+  <br />
+
+  <sub>NASA and SpaceX names, logos, imagery, and referenced materials belong to their respective owners. Project ASTRA is an independent team and is not affiliated with or endorsed by NASA or SpaceX.</sub>
+
 </div>
