@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="assets/project-astra-logo.png" alt="Project ASTRA" width="190" />
+  <img src="assets/logomain.png" alt="Project ASTRA" width="190" />
 
   # PROJECT ASTRA
 
@@ -298,11 +298,11 @@ For team-related discussions, research coordination, collaboration, and general 
   <sub>Participating in NASA Space Apps Challenge 2026 · Bhaktapur, Nepal</sub>
 
   <br /><br />
-
+  <sub>NASA and SpaceX names, logos, imagery, and referenced materials belong to their respective owners.</sub>
+</br>
   <sub>© 2026 Project ASTRA. All rights reserved for original branding, logo, and original content, subject to the applicable repository license and third-party rights.</sub>
 
   <br />
 
-  <sub>NASA and SpaceX names, logos, imagery, and referenced materials belong to their respective owners. Project ASTRA is an independent team and is not affiliated with or endorsed by NASA or SpaceX.</sub>
 
 </div>
