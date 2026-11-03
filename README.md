@@ -170,5 +170,5 @@ Every mission starts with a question. Ours begins with a simple one:
   **Built with curiosity, collaboration, and a passion for exploration.**
 
   <sub>Participating in NASA Space Apps Challenge 2026 · Bhaktapur, Nepal</sub>
-
+   <sub>Copyright</sub>
 </div>
