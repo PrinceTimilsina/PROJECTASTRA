@@ -4,7 +4,7 @@
 
   # PROJECT ASTRA
 
-  ### Beyond Earth. Into the Unknown.
+  ### Beyond Earth.Into the Unknown.
 
   *Exploring ideas. Engineering possibilities. Shaping the future of space exploration.*
 
@@ -207,8 +207,7 @@ Our technical interests include:
 - Artificial Intelligence and Machine Learning
 - Scientific Data Processing and Analysis
 - NASA Open Data, APIs, and Research Resources
-- Human-Computer Interaction
-
+- 
 Our technology stack and research methods will evolve according to the needs of each mission.
 
 ---
